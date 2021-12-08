@@ -1,0 +1,24 @@
+{
+    "editor.formatOnSave": true,
+    "editor.formatOnType": true,
+    "editor.minimap.maxColumn": 200,
+    "editor.wordWrapColumn": 200,
+    "editor.stickyTabStops": true,
+    "editor.tabSize": 2,
+    "editor.minimap.enabled": false,
+    "editor.renderWhitespace": "all",
+    "prettier.tabWidth": 2,
+    "prettier.singleQuote": true,
+    "prettier.withNodeModules": true,
+    "prettier.printWidth": 200,
+    "prettier.semi": false,
+    "prettier.resolveGlobalModules": false,
+    "git.autofetch": true,
+    "git.enableSmartCommit": true,
+    "[yaml]": {
+
+        "editor.defaultFormatter": "esbenp.prettier-vscode",
+        "editor.insertSpaces": true,
+        "editor.tabSize": 2,
+    }
+}
