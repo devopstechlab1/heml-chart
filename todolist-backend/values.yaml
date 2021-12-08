@@ -6,7 +6,7 @@ replicaCount: 1
 
 image:
   repository: 300953167734.dkr.ecr.us-east-2.amazonaws.com/todolist-backend
-  pullPolicy: IfNotPresent
+  pullPolicy: Always
   # Overrides the image tag whose default is the chart appVersion.
   tag: 'latest'
 
